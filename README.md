@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ahmad Dhava Fahrezi</h1>
-<h3 align="center">My Project</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddhavafahrezi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddhavafahrezi" /> </p>
+```
+ ┌──(dhava㉿kali)-[~]
+ └─# whoami
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=520&lines=Hi,+I'm+Ahmad+Dhava+Fahrezi;I+write+code+%26+break+things;Security+%7C+Backend+%7C+Linux" alt="typing" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddhavafahrezi&show_icons=true&locale=en&layout=compact" alt="ahmaddhavafahrezi" /></p>
+```bash
+$ cat about.txt
+nama     : Ahmad Dhava Fahrezi
+kontak   : ahmaddhavafahrezi@gmail.com
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmaddhavafahrezi&show_icons=true&locale=en" alt="ahmaddhavafahrezi" /></p>
+### 🛠️ ~/tools
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddhavafahrezi&" alt="ahmaddhavafahrezi" /></p>
+### 📊 ~/stats
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9" />
+
+![streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+```bash
+$ echo "Stay curious. Keep hacking." 
+```
